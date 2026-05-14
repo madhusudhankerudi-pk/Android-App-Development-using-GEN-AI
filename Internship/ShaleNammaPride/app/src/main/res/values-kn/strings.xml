@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ಶಾಲೆ-ನಮ್ಮ ಹೆಮ್ಮೆ</string>
+    <string name="tagline">ನಮ್ಮ ಶಾಲೆ, ನಮ್ಮ ಹೆಮ್ಮೆ</string>
+    <string name="loading">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+
+    <!-- Login/Register -->
+    <string name="welcome_back">ಮತ್ತೆ ಸ್ವಾಗತ!</string>
+    <string name="login_to_continue">ಮುಂದುವರಿಯಲು ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="admin_headmaster">ಮುಖ್ಯೋಪಾಧ್ಯಾಯರು / ನಿರ್ವಾಹಕರು</string>
+    <string name="parent_user">ಪೋಷಕರು / ಬಳಕೆದಾರರು</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="enter_email">ನಿಮ್ಮ ಇಮೇಲ್ ನಮೂದಿಸಿ</string>
+    <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="enter_password">ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ</string>
+    <string name="forgot_password">ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿರುವಿರಾ?</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="dont_have_account">ಖಾತೆ ಇಲ್ಲವೇ? ನೋಂದಾಯಿಸಿ</string>
+
+    <!-- Dashboard -->
+    <string name="namaskara">ನಮಸ್ಕಾರ! 👋</string>
+    <string name="good_morning">ಶುಭೋದಯ</string>
+    <string name="daily_meal_update">ದೈನಂದಿನ ಊಟದ ಅಪ್‌ಡೇಟ್</string>
+    <string name="facility_tour">ಶಾಲಾ ಸೌಲಭ್ಯಗಳು</string>
+    <string name="student_stars">ನಮ್ಮ ನಕ್ಷತ್ರಗಳು</string>
+    <string name="announcements">ಶಾಲಾ ಪ್ರಕಟಣೆಗಳು</string>
+    <string name="feedback_box">ಪ್ರತಿಕ್ರಿಯೆ ಪೆಟ್ಟಿಗೆ</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+
+    <!-- Bottom Nav -->
+    <string name="home">ಹೋಮ್</string>
+    <string name="gallery">ಗ್ಯಾಲರಿ</string>
+    <string name="updates">ನವೀಕರಣಗಳು</string>
+    <string name="feedback">ಪ್ರತಿಕ್ರಿಯೆ</string>
+</resources>

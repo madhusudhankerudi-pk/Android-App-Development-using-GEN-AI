@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmation</string>
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I am capable.</string>
+    <string name="affirmation3">I am brave.</string>
+    <string name="affirmation4">I am confident.</string>
+    <string name="affirmation5">I am kind.</string>
+    <string name="affirmation6">I am loved.</string>
+    <string name="affirmation7">I am grateful.</string>
+    <string name="affirmation8">I am happy.</string>
+    <string name="affirmation9">I am peaceful.</string>
+    <string name="affirmation10">I am unique.</string>
+</resources>

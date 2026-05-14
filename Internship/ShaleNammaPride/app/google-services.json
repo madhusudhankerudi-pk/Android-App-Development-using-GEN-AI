@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914363123180",
+    "project_id": "shale-namma-pride-76904",
+    "storage_bucket": "shale-namma-pride-76904.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914363123180:android:37094753652a26b81eecc9",
+        "android_client_info": {
+          "package_name": "com.example.ShaleNammaPride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdSUwewPjXtABc9N8rj-ZTyKI29gSnW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
